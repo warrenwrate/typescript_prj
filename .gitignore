@@ -1,6 +1,6 @@
 frontend/node_modules
 frontend/.dockerignore
-api/Dockefile
-frontend/Dockefile
+api/Dockerfile
+frontend/Dockerfile
 package-lock.json
-docker-compose
+docker-compose.yml
